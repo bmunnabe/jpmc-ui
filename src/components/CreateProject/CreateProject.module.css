@@ -1,0 +1,8 @@
+.btnCont {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.errors {
+    color: red;
+}

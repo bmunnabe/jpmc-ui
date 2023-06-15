@@ -1,0 +1,20 @@
+[
+  {
+    "projectId": 1,
+    "owner": "F725444",
+    "projectTitle": "DDA Trans svc",
+    "projectDesc": "DDA transaction service migration from vsi to GKP",
+    "projectTemplateId": 1,
+    "createDate": "0412",
+    "status": "Ready"
+  },
+  {
+    "projectId": 2,
+    "owner": "F725444",
+    "projectTitle":"Granite Procing svc",
+    "projectDesc": "Build Exp service for Granite project",
+    "projectTemplateId": 1,
+    "createDate": "0412",
+    "status": "Ready"
+  }
+]

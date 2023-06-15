@@ -1,0 +1,23 @@
+[
+  {
+    "templateId": 1,
+    "templateTitle": "New GKP Service",
+    "templateDesc": "New GKP Service to be built",
+    "createDate": "0412",
+    "status": "active"
+  },
+  {
+    "templateId": 2,
+    "templateTitle": "New GAP Service",
+    "templateDesc": "New GAP Service to be built",
+    "createDate": "0412",
+    "status": "active"
+  },
+  {
+    "templateId": 3,
+    "templateTitle": "New AWS Service",
+    "templateDesc": "New AWS Service to be built",
+    "createDate": "0412",
+    "status": "active"
+  }
+]
